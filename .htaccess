@@ -1,0 +1,4 @@
+# Uncomment to force user to login
+# Can identify user even in Incognito mode
+ 
+# AuthType WebAuth
